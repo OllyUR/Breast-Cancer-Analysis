@@ -1,0 +1,121 @@
+Patient_ID,Age,Country,Tumor_Size_mm,Lump_Shape,Lump_Texture,Breast_Pain,Family_History,Screening_Access,Diagnosis,Age_Group,Count
+P001,65,Kenya,12,Irregular,Hard,No,Yes,Yes,Benign,Older women,1
+P002,59,Kenya,10,Round,Smooth,Yes,No,Yes,Benign,Older women,1
+P003,57,Ethiopia,6,Round,Smooth,No,Yes,Yes,Malignant,Older women,1
+P004,69,South Africa,32,Oval,Smooth,No,No,Yes,Malignant,Older women,1
+P005,30,Ethiopia,29,Round,Hard,No,Yes,No,Malignant,Young Adult,1
+P006,54,Ethiopia,39,Irregular,Hard,No,Yes,Yes,Malignant,Older women,1
+P007,48,Kenya,17,Round,Smooth,Yes,Yes,Yes,Malignant,Middle Age,1
+P008,49,Uganda,22,Oval,Smooth,No,No,Yes,Malignant,Middle Age,1
+P009,67,Ghana,22,Oval,Firm,Yes,Yes,Yes,Malignant,Older women,1
+P010,42,South Africa,40,Round,Firm,No,Yes,Yes,Malignant,Middle Age,1
+P011,50,South Africa,22,Irregular,Firm,Yes,Yes,No,Malignant,Middle Age,1
+P012,50,South Africa,34,Irregular,Hard,No,Yes,Yes,Malignant,Middle Age,1
+P013,59,South Africa,21,Round,Hard,No,No,No,Malignant,Older women,1
+P014,56,Tanzania,10,Irregular,Smooth,Yes,Yes,Yes,Malignant,Older women,1
+P015,49,Kenya,29,Irregular,Hard,No,No,Yes,Malignant,Middle Age,1
+P016,42,Ghana,26,Oval,Smooth,No,Yes,No,Malignant,Middle Age,1
+P017,41,South Africa,37,Round,Firm,Yes,Yes,No,Malignant,Middle Age,1
+P018,35,Nigeria,39,Round,Firm,No,Yes,No,Malignant,Middle Age,1
+P019,44,Rwanda,20,Round,Hard,Yes,Yes,Yes,Benign,Middle Age,1
+P020,33,Tanzania,13,Round,Hard,Yes,No,No,Benign,Young Adult,1
+P021,69,Rwanda,17,Irregular,Firm,No,No,No,Benign,Older women,1
+P022,32,South Africa,20,Irregular,Smooth,Yes,Yes,No,Benign,Young Adult,1
+P023,25,Uganda,9,Round,Hard,Yes,Yes,Yes,Malignant,Young Adult,1
+P024,40,Rwanda,22,Round,Firm,Yes,No,Yes,Malignant,Middle Age,1
+P025,51,Tanzania,17,Oval,Hard,Yes,Yes,No,Benign,Older women,1
+P026,28,Kenya,11,Round,Smooth,No,Yes,No,Malignant,Young Adult,1
+P027,37,Ghana,39,Oval,Firm,Yes,No,No,Malignant,Middle Age,1
+P028,40,Nigeria,9,Round,Smooth,Yes,No,Yes,Benign,Middle Age,1
+P029,35,Tanzania,31,Round,Smooth,No,No,Yes,Malignant,Middle Age,1
+P030,49,Ethiopia,5,Oval,Hard,No,No,No,Benign,Middle Age,1
+P031,60,South Africa,36,Round,Hard,Yes,Yes,No,Malignant,Older women,1
+P032,59,Rwanda,8,Irregular,Hard,Yes,No,Yes,Benign,Older women,1
+P033,35,South Africa,8,Oval,Smooth,Yes,Yes,Yes,Malignant,Middle Age,1
+P034,61,Uganda,20,Oval,Smooth,Yes,Yes,No,Malignant,Older women,1
+P035,67,Ghana,25,Irregular,Hard,No,Yes,No,Malignant,Older women,1
+P036,44,Rwanda,34,Irregular,Hard,Yes,No,Yes,Malignant,Middle Age,1
+P037,31,Kenya,9,Round,Firm,No,Yes,Yes,Malignant,Young Adult,1
+P038,43,Ethiopia,15,Irregular,Smooth,No,No,Yes,Benign,Middle Age,1
+P039,33,Ethiopia,21,Oval,Hard,Yes,Yes,Yes,Malignant,Young Adult,1
+P040,38,Ethiopia,26,Round,Smooth,No,Yes,No,Malignant,Middle Age,1
+P041,65,Uganda,32,Round,Hard,Yes,No,Yes,Malignant,Older women,1
+P042,41,Kenya,15,Round,Hard,No,No,Yes,Benign,Middle Age,1
+P043,34,Tanzania,39,Round,Smooth,No,Yes,Yes,Malignant,Young Adult,1
+P044,44,South Africa,28,Irregular,Smooth,No,Yes,Yes,Malignant,Middle Age,1
+P045,47,Ghana,40,Round,Firm,Yes,No,Yes,Malignant,Middle Age,1
+P046,26,Ethiopia,16,Round,Hard,No,No,Yes,Benign,Young Adult,1
+P047,31,South Africa,29,Oval,Firm,No,Yes,Yes,Malignant,Young Adult,1
+P048,44,Ethiopia,19,Round,Firm,Yes,Yes,Yes,Benign,Middle Age,1
+P049,47,Kenya,37,Oval,Smooth,No,No,Yes,Malignant,Middle Age,1
+P050,62,Uganda,21,Irregular,Firm,Yes,Yes,No,Malignant,Older women,1
+P051,52,Ethiopia,37,Round,Hard,No,Yes,Yes,Malignant,Older women,1
+P052,52,Uganda,5,Irregular,Firm,No,Yes,No,Benign,Older women,1
+P053,67,Uganda,12,Oval,Hard,No,No,No,Benign,Older women,1
+P054,43,Tanzania,40,Irregular,Hard,Yes,Yes,No,Malignant,Middle Age,1
+P055,36,Ethiopia,24,Round,Firm,Yes,No,No,Malignant,Middle Age,1
+P056,62,South Africa,25,Irregular,Firm,No,No,No,Malignant,Older women,1
+P057,35,South Africa,10,Irregular,Firm,No,No,Yes,Benign,Middle Age,1
+P058,39,Rwanda,17,Irregular,Smooth,Yes,Yes,Yes,Benign,Middle Age,1
+P059,54,Tanzania,31,Round,Smooth,No,Yes,No,Malignant,Older women,1
+P060,66,Rwanda,5,Round,Hard,No,Yes,Yes,Benign,Older women,1
+P061,40,Uganda,12,Oval,Hard,Yes,No,No,Benign,Middle Age,1
+P062,57,Rwanda,32,Oval,Smooth,Yes,No,No,Malignant,Older women,1
+P063,65,Rwanda,22,Round,Hard,Yes,No,No,Malignant,Older women,1
+P064,43,Kenya,20,Round,Smooth,No,No,No,Benign,Middle Age,1
+P065,39,Tanzania,29,Oval,Firm,Yes,Yes,Yes,Malignant,Middle Age,1
+P066,59,Tanzania,34,Oval,Hard,Yes,No,Yes,Malignant,Older women,1
+P067,69,Uganda,6,Oval,Firm,No,No,Yes,Benign,Older women,1
+P068,51,Ethiopia,39,Oval,Firm,No,Yes,Yes,Malignant,Older women,1
+P069,26,Rwanda,29,Round,Hard,No,No,Yes,Malignant,Young Adult,1
+P070,59,Tanzania,6,Round,Firm,Yes,No,Yes,Benign,Older women,1
+P071,36,South Africa,8,Oval,Firm,No,No,No,Benign,Middle Age,1
+P072,46,Kenya,29,Oval,Smooth,No,No,No,Malignant,Middle Age,1
+P073,59,Nigeria,8,Round,Smooth,Yes,No,Yes,Benign,Older women,1
+P074,37,Kenya,6,Irregular,Smooth,Yes,Yes,Yes,Malignant,Middle Age,1
+P075,54,Ghana,21,Oval,Smooth,Yes,No,Yes,Malignant,Older women,1
+P076,62,South Africa,6,Round,Hard,No,No,No,Benign,Older women,1
+P077,69,Nigeria,20,Oval,Hard,No,Yes,Yes,Malignant,Older women,1
+P078,52,Tanzania,28,Oval,Smooth,No,Yes,Yes,Malignant,Older women,1
+P079,52,Ghana,28,Irregular,Hard,Yes,No,No,Malignant,Older women,1
+P080,66,Ethiopia,22,Oval,Smooth,No,No,No,Malignant,Older women,1
+P081,30,Tanzania,22,Oval,Smooth,Yes,No,No,Malignant,Young Adult,1
+P082,56,Uganda,25,Oval,Firm,No,Yes,Yes,Malignant,Older women,1
+P083,42,South Africa,22,Irregular,Firm,Yes,Yes,Yes,Malignant,Middle Age,1
+P084,56,Rwanda,40,Round,Smooth,No,Yes,No,Malignant,Older women,1
+P085,43,Uganda,19,Oval,Hard,Yes,No,No,Benign,Middle Age,1
+P086,58,Rwanda,27,Oval,Firm,No,No,No,Malignant,Older women,1
+P087,41,Ghana,19,Round,Smooth,Yes,Yes,No,Benign,Middle Age,1
+P088,55,Ethiopia,22,Round,Firm,Yes,No,Yes,Malignant,Older women,1
+P089,36,Nigeria,24,Round,Hard,Yes,Yes,No,Malignant,Middle Age,1
+P090,43,Ethiopia,13,Oval,Firm,Yes,No,Yes,Benign,Middle Age,1
+P091,53,Rwanda,26,Round,Smooth,Yes,Yes,No,Malignant,Older women,1
+P092,50,Ghana,36,Irregular,Firm,Yes,Yes,Yes,Malignant,Middle Age,1
+P093,30,Tanzania,20,Oval,Firm,No,Yes,Yes,Malignant,Young Adult,1
+P094,44,South Africa,32,Irregular,Smooth,Yes,No,Yes,Malignant,Middle Age,1
+P095,41,Ghana,10,Round,Firm,Yes,Yes,Yes,Malignant,Middle Age,1
+P096,53,Ethiopia,35,Irregular,Firm,Yes,No,Yes,Malignant,Older women,1
+P097,69,South Africa,34,Oval,Smooth,Yes,Yes,No,Malignant,Older women,1
+P098,59,Ghana,19,Oval,Hard,No,Yes,Yes,Benign,Older women,1
+P099,61,Ethiopia,23,Irregular,Firm,Yes,No,No,Malignant,Older women,1
+P100,42,Nigeria,37,Oval,Hard,No,No,Yes,Malignant,Middle Age,1
+P101,45,Nigeria,21,Irregular,Firm,Yes,Yes,Yes,Malignant,Middle Age,1
+P102,61,Ghana,7,Irregular,Firm,No,Yes,No,Malignant,Older women,1
+P103,65,Tanzania,36,Oval,Firm,No,Yes,No,Malignant,Older women,1
+P104,67,Ethiopia,11,Irregular,Firm,No,Yes,No,Malignant,Older women,1
+P105,60,Ethiopia,7,Oval,Smooth,Yes,No,No,Benign,Older women,1
+P106,50,Nigeria,37,Round,Hard,No,Yes,No,Malignant,Middle Age,1
+P107,48,Ethiopia,36,Irregular,Smooth,Yes,No,Yes,Malignant,Middle Age,1
+P108,43,South Africa,33,Irregular,Smooth,Yes,No,Yes,Malignant,Middle Age,1
+P109,44,South Africa,40,Round,Firm,No,Yes,Yes,Malignant,Middle Age,1
+P110,32,Tanzania,14,Oval,Firm,No,No,No,Benign,Young Adult,1
+P111,40,Ghana,34,Round,Firm,No,Yes,Yes,Malignant,Middle Age,1
+P112,51,Ethiopia,26,Irregular,Hard,Yes,No,No,Malignant,Older women,1
+P113,67,Uganda,36,Oval,Hard,No,Yes,No,Malignant,Older women,1
+P114,59,South Africa,29,Irregular,Firm,No,No,Yes,Malignant,Older women,1
+P115,39,Tanzania,31,Oval,Hard,No,Yes,No,Malignant,Middle Age,1
+P116,66,Uganda,14,Round,Firm,Yes,No,Yes,Benign,Older women,1
+P117,31,Tanzania,38,Irregular,Smooth,Yes,No,Yes,Malignant,Young Adult,1
+P118,29,Kenya,35,Oval,Hard,No,No,No,Malignant,Young Adult,1
+P119,59,Kenya,29,Round,Hard,No,No,Yes,Malignant,Older women,1
+P120,68,Kenya,23,Irregular,Hard,Yes,Yes,No,Malignant,Older women,1
